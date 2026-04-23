@@ -53,7 +53,7 @@ Assets/
 1. Установить [Unity Hub](https://unity.com/download)
 2. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/helix-jump.git
+   git clone https://github.com/Twinkiii/helix-jump.git
    ```
 3. Открыть папку проекта через Unity Hub → **Open Project**
 4. Открыть сцену `Assets/HelixJumpFS/Scenes/` и нажать **Play**
